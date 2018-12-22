@@ -1,0 +1,14 @@
+5
+a|n
+b|n
+c|n
+d|n
+e|n
+a|b
+b|d
+d|c
+c|a
+a|e
+b|e
+d|e
+c|e
